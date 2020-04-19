@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+    <pcToLineNum>
+        <entry filename="C:\\Users\\adivj\\eclipse-workspace\\garmin_projects\\RecordSample\\source\\RecordSampleView.mc" id="3" lineNum="18" pc="268435456" symbol="initialize"/>
+        <entry filename="C:\\Users\\adivj\\eclipse-workspace\\garmin_projects\\RecordSample\\source\\RecordSampleView.mc" id="3" lineNum="19" pc="268435460" symbol="initialize"/>
+        <entry filename="C:\\Users\\adivj\\eclipse-workspace\\garmin_projects\\RecordSample\\source\\RecordSampleView.mc" id="4" lineNum="22" pc="268435479" symbol="onMenu"/>
+        <entry filename="C:\\Users\\adivj\\eclipse-workspace\\garmin_projects\\RecordSample\\source\\RecordSampleView.mc" id="4" lineNum="23" pc="268435483" symbol="onMenu"/>
+        <entry filename="C:\\Users\\adivj\\eclipse-workspace\\garmin_projects\\RecordSample\\source\\RecordSampleView.mc" id="4" lineNum="24" pc="268435500" symbol="onMenu"/>
+        <entry filename="C:\\Users\\adivj\\eclipse-workspace\\garmin_projects\\RecordSample\\source\\RecordSampleView.mc" id="4" lineNum="25" pc="268435539" symbol="onMenu"/>
+        <entry filename="C:\\Users\\adivj\\eclipse-workspace\\garmin_projects\\RecordSample\\source\\RecordSampleView.mc" id="4" lineNum="26" pc="268435601" symbol="onMenu"/>
+        <entry filename="C:\\Users\\adivj\\eclipse-workspace\\garmin_projects\\RecordSample\\source\\RecordSampleView.mc" id="4" lineNum="27" pc="268435619" symbol="onMenu"/>
+        <entry filename="C:\\Users\\adivj\\eclipse-workspace\\garmin_projects\\RecordSample\\source\\RecordSampleView.mc" id="4" lineNum="29" pc="268435638" symbol="onMenu"/>
+        <entry filename="C:\\Users\\adivj\\eclipse-workspace\\garmin_projects\\RecordSample\\source\\RecordSampleView.mc" id="4" lineNum="30" pc="268435674" symbol="onMenu"/>
+        <entry filename="C:\\Users\\adivj\\eclipse-workspace\\garmin_projects\\RecordSample\\source\\RecordSampleView.mc" id="4" lineNum="31" pc="268435692" symbol="onMenu"/>
+        <entry filename="C:\\Users\\adivj\\eclipse-workspace\\garmin_projects\\RecordSample\\source\\RecordSampleView.mc" id="4" lineNum="32" pc="268435710" symbol="onMenu"/>
+        <entry filename="C:\\Users\\adivj\\eclipse-workspace\\garmin_projects\\RecordSample\\source\\RecordSampleView.mc" id="4" lineNum="33" pc="268435719" symbol="onMenu"/>
+        <entry filename="C:\\Users\\adivj\\eclipse-workspace\\garmin_projects\\RecordSample\\source\\RecordSampleView.mc" id="4" lineNum="36" pc="268435741" symbol="onMenu"/>
+        <entry filename="C:\\Users\\adivj\\eclipse-workspace\\garmin_projects\\RecordSample\\source\\RecordSampleView.mc" id="6" lineNum="42" pc="268435745" symbol="initialize"/>
+        <entry filename="C:\\Users\\adivj\\eclipse-workspace\\garmin_projects\\RecordSample\\source\\RecordSampleView.mc" id="6" lineNum="43" pc="268435749" symbol="initialize"/>
+        <entry filename="C:\\Users\\adivj\\eclipse-workspace\\garmin_projects\\RecordSample\\source\\RecordSampleView.mc" id="7" lineNum="47" pc="268435768" symbol="stopRecording"/>
+        <entry filename="C:\\Users\\adivj\\eclipse-workspace\\garmin_projects\\RecordSample\\source\\RecordSampleView.mc" id="7" lineNum="48" pc="268435772" symbol="stopRecording"/>
+        <entry filename="C:\\Users\\adivj\\eclipse-workspace\\garmin_projects\\RecordSample\\source\\RecordSampleView.mc" id="7" lineNum="49" pc="268435789" symbol="stopRecording"/>
+        <entry filename="C:\\Users\\adivj\\eclipse-workspace\\garmin_projects\\RecordSample\\source\\RecordSampleView.mc" id="7" lineNum="50" pc="268435825" symbol="stopRecording"/>
+        <entry filename="C:\\Users\\adivj\\eclipse-workspace\\garmin_projects\\RecordSample\\source\\RecordSampleView.mc" id="7" lineNum="51" pc="268435843" symbol="stopRecording"/>
+        <entry filename="C:\\Users\\adivj\\eclipse-workspace\\garmin_projects\\RecordSample\\source\\RecordSampleView.mc" id="7" lineNum="52" pc="268435861" symbol="stopRecording"/>
+        <entry filename="C:\\Users\\adivj\\eclipse-workspace\\garmin_projects\\RecordSample\\source\\RecordSampleView.mc" id="7" lineNum="53" pc="268435870" symbol="stopRecording"/>
+        <entry filename="C:\\Users\\adivj\\eclipse-workspace\\garmin_projects\\RecordSample\\source\\RecordSampleView.mc" id="8" lineNum="59" pc="268435893" symbol="onLayout"/>
+        <entry filename="C:\\Users\\adivj\\eclipse-workspace\\garmin_projects\\RecordSample\\source\\RecordSampleView.mc" id="9" lineNum="63" pc="268435898" symbol="onHide"/>
+        <entry filename="C:\\Users\\adivj\\eclipse-workspace\\garmin_projects\\RecordSample\\source\\RecordSampleView.mc" id="10" lineNum="67" pc="268435903" symbol="onShow"/>
+        <entry filename="C:\\Users\\adivj\\eclipse-workspace\\garmin_projects\\RecordSample\\source\\RecordSampleView.mc" id="11" lineNum="71" pc="268435908" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\adivj\\eclipse-workspace\\garmin_projects\\RecordSample\\source\\RecordSampleView.mc" id="11" lineNum="73" pc="268435912" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\adivj\\eclipse-workspace\\garmin_projects\\RecordSample\\source\\RecordSampleView.mc" id="11" lineNum="74" pc="268435948" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\adivj\\eclipse-workspace\\garmin_projects\\RecordSample\\source\\RecordSampleView.mc" id="11" lineNum="75" pc="268435960" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\adivj\\eclipse-workspace\\garmin_projects\\RecordSample\\source\\RecordSampleView.mc" id="11" lineNum="76" pc="268435996" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\adivj\\eclipse-workspace\\garmin_projects\\RecordSample\\source\\RecordSampleView.mc" id="11" lineNum="77" pc="268436040" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\adivj\\eclipse-workspace\\garmin_projects\\RecordSample\\source\\RecordSampleView.mc" id="11" lineNum="78" pc="268436076" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\adivj\\eclipse-workspace\\garmin_projects\\RecordSample\\source\\RecordSampleView.mc" id="11" lineNum="80" pc="268436161" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\adivj\\eclipse-workspace\\garmin_projects\\RecordSample\\source\\RecordSampleView.mc" id="11" lineNum="82" pc="268436178" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\adivj\\eclipse-workspace\\garmin_projects\\RecordSample\\source\\RecordSampleView.mc" id="11" lineNum="83" pc="268436217" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\adivj\\eclipse-workspace\\garmin_projects\\RecordSample\\source\\RecordSampleView.mc" id="11" lineNum="84" pc="268436253" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\adivj\\eclipse-workspace\\garmin_projects\\RecordSample\\source\\RecordSampleView.mc" id="11" lineNum="86" pc="268436344" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\adivj\\eclipse-workspace\\garmin_projects\\RecordSample\\source\\RecordSampleView.mc" id="11" lineNum="87" pc="268436380" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\adivj\\eclipse-workspace\\garmin_projects\\RecordSample\\source\\RecordSampleView.mc" id="11" lineNum="88" pc="268436399" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\adivj\\eclipse-workspace\\garmin_projects\\RecordSample\\source\\RecordSampleView.mc" id="11" lineNum="89" pc="268436424" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\adivj\\eclipse-workspace\\garmin_projects\\RecordSample\\source\\RecordSampleView.mc" id="11" lineNum="90" pc="268436460" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\adivj\\eclipse-workspace\\garmin_projects\\RecordSample\\source\\RecordSampleView.mc" id="11" lineNum="91" pc="268436505" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\adivj\\eclipse-workspace\\garmin_projects\\RecordSample\\source\\RecordSampleView.mc" id="11" lineNum="92" pc="268436533" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\adivj\\eclipse-workspace\\garmin_projects\\RecordSample\\source\\RecordSampleView.mc" id="11" lineNum="93" pc="268436569" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\adivj\\eclipse-workspace\\garmin_projects\\RecordSample\\source\\RecordSampleView.mc" id="11" lineNum="98" pc="268436620" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\adivj\\eclipse-workspace\\garmin_projects\\RecordSample\\source\\RecordSampleView.mc" id="11" lineNum="99" pc="268436656" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\adivj\\eclipse-workspace\\garmin_projects\\RecordSample\\source\\RecordSampleApp.mc" id="13" lineNum="14" pc="268436745" symbol="initialize"/>
+        <entry filename="C:\\Users\\adivj\\eclipse-workspace\\garmin_projects\\RecordSample\\source\\RecordSampleApp.mc" id="13" lineNum="15" pc="268436749" symbol="initialize"/>
+        <entry filename="C:\\Users\\adivj\\eclipse-workspace\\garmin_projects\\RecordSample\\source\\RecordSampleApp.mc" id="14" lineNum="21" pc="268436768" symbol="onStart"/>
+        <entry filename="C:\\Users\\adivj\\eclipse-workspace\\garmin_projects\\RecordSample\\source\\RecordSampleApp.mc" id="14" lineNum="22" pc="268436772" symbol="onStart"/>
+        <entry filename="C:\\Users\\adivj\\eclipse-workspace\\garmin_projects\\RecordSample\\source\\RecordSampleApp.mc" id="15" lineNum="26" pc="268436817" symbol="onStop"/>
+        <entry filename="C:\\Users\\adivj\\eclipse-workspace\\garmin_projects\\RecordSample\\source\\RecordSampleApp.mc" id="15" lineNum="27" pc="268436821" symbol="onStop"/>
+        <entry filename="C:\\Users\\adivj\\eclipse-workspace\\garmin_projects\\RecordSample\\source\\RecordSampleApp.mc" id="15" lineNum="28" pc="268436839" symbol="onStop"/>
+        <entry filename="C:\\Users\\adivj\\eclipse-workspace\\garmin_projects\\RecordSample\\source\\RecordSampleApp.mc" id="16" lineNum="31" pc="268436884" symbol="onPosition"/>
+        <entry filename="C:\\Users\\adivj\\eclipse-workspace\\garmin_projects\\RecordSample\\source\\RecordSampleApp.mc" id="17" lineNum="35" pc="268436889" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\adivj\\eclipse-workspace\\garmin_projects\\RecordSample\\source\\RecordSampleApp.mc" id="17" lineNum="36" pc="268436893" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\adivj\\eclipse-workspace\\garmin_projects\\RecordSample\\source\\RecordSampleApp.mc" id="17" lineNum="37" pc="268436923" symbol="getInitialView"/>
+    </pcToLineNum>
+    <symbolTable>
+        <entry id="8388644" module="true" symbol="System"/>
+        <entry id="8389124" method="true" symbol="onUpdate"/>
+        <entry id="12" object="true" symbol="RecordSampleApp"/>
+        <entry field="true" id="8388611" module="true" symbol="Toybox"/>
+        <entry id="8388770" module="true" object="true" symbol="Strings"/>
+        <entry id="8389280" method="true" symbol="getInitialView"/>
+        <entry id="8388640" module="true" symbol="Lang"/>
+        <entry id="8388639" module="true" symbol="Graphics"/>
+        <entry id="8388769" module="true" object="true" symbol="Rez"/>
+        <entry id="13" method="true" symbol="stopRecording"/>
+        <entry id="8389123" method="true" symbol="onShow"/>
+        <entry id="8388638" module="true" symbol="ActivityRecording"/>
+        <entry id="8388702" method="true" symbol="initialize"/>
+        <entry field="true" id="19" symbol="AppName"/>
+        <entry id="8388890" symbol="sport"/>
+        <entry field="true" id="8388892" symbol="name"/>
+        <entry id="8389080" method="true" symbol="onMenu"/>
+        <entry field="true" id="14" symbol="recordSampleView"/>
+        <entry field="true" id="18" symbol="LauncherIcon"/>
+        <entry id="8388648" module="true" symbol="WatchUi"/>
+        <entry id="8389281" method="true" symbol="onStop"/>
+        <entry id="8388771" module="true" object="true" symbol="Drawables"/>
+        <entry id="8389122" method="true" symbol="onLayout"/>
+        <entry id="10" object="true" symbol="BaseInputDelegate"/>
+        <entry id="8389279" method="true" symbol="onStart"/>
+        <entry field="true" id="9" symbol="session"/>
+        <entry id="15" method="true" symbol="onPosition"/>
+        <entry id="16" module="true" symbol="Layouts"/>
+        <entry id="8388642" module="true" symbol="Position"/>
+        <entry id="11" object="true" symbol="RecordSampleView"/>
+        <entry id="8389125" method="true" symbol="onHide"/>
+        <entry id="8390088" module="true" object="true" symbol="JsonData"/>
+        <entry id="17" module="true" symbol="Menus"/>
+        <entry id="8388772" module="true" object="true" symbol="Fonts"/>
+        <entry id="8388635" module="true" symbol="Application"/>
+    </symbolTable>
+    <localVars>
+        <entry endPc="268435898" name="dc" stackId="1" startPc="268435893"/>
+        <entry endPc="268436614" name="x" stackId="2" startPc="268436380"/>
+        <entry endPc="268436614" name="y" stackId="3" startPc="268436380"/>
+        <entry endPc="268436745" name="dc" stackId="1" startPc="268435908"/>
+        <entry endPc="268436817" name="state" stackId="1" startPc="268436768"/>
+        <entry endPc="268436884" name="state" stackId="1" startPc="268436817"/>
+        <entry endPc="268436889" name="info" stackId="1" startPc="268436884"/>
+    </localVars>
+    <annotations/>
+    <dataEntryOffsetMappings>
+        <dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+        <dataEntry offset="166" parentId="globals" symbolId="RecordSampleView" type="class"/>
+        <dataEntry offset="253" parentId="globals" symbolId="RecordSampleApp" type="class"/>
+        <dataEntry offset="340" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry offset="419" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry offset="458" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry offset="489" parentId="Rez" symbolId="Fonts" type="module"/>
+        <dataEntry offset="520" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry offset="551" parentId="Rez" symbolId="JsonData" type="module"/>
+        <dataEntry offset="582" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry offset="621" parentId="globals" symbolId="BaseInputDelegate" type="class"/>
+    </dataEntryOffsetMappings>
+    <functions>
+        <functionEntry accessMode="public" name="initialize" parent="BaseInputDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onMenu" parent="BaseInputDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="RecordSampleView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="stopRecording" parent="RecordSampleView">
+            <documentation><![CDATA[<div class="description"> Stop the recording if necessary<br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onLayout" parent="RecordSampleView">
+            <param id="dc"/>
+            <documentation><![CDATA[<div class="description"> Load your resources here<br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onHide" parent="RecordSampleView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onShow" parent="RecordSampleView">
+            <documentation><![CDATA[<div class="description"> Restore the state of the app and prepare the view to be shown.<br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onUpdate" parent="RecordSampleView">
+            <param id="dc"/>
+            <documentation><![CDATA[<div class="description"> Update the view<br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="RecordSampleApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStart" parent="RecordSampleApp">
+            <param id="state"/>
+            <documentation><![CDATA[<div class="description"> onStart() is called on application start up<br/> We need to enable the location events for now so that we make sure GPS<br/> is on.<br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStop" parent="RecordSampleApp">
+            <param id="state"/>
+            <documentation><![CDATA[<div class="description"> onStop() is called when your application is exiting<br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onPosition" parent="RecordSampleApp">
+            <param id="info"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getInitialView" parent="RecordSampleApp">
+            <documentation><![CDATA[<div class="description"> Return the initial view of your application here<br/></div>]]></documentation>
+        </functionEntry>
+    </functions>
+</debugInfo>
